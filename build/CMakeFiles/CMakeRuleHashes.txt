@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+b25ce4fc241d772f428eb19e6a0299eb CMakeFiles/PomodoroTray_autogen
+b25ce4fc241d772f428eb19e6a0299eb CMakeFiles/PomodoroTray_autogen_timestamp_deps
+76d9f6d6f19faf6aae86619bbf6eeccb PomodoroTray_autogen/timestamp

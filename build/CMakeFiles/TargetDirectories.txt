@@ -1,0 +1,5 @@
+/home/srg/projects/pomodoro_widget/build/CMakeFiles/PomodoroTray.dir
+/home/srg/projects/pomodoro_widget/build/CMakeFiles/edit_cache.dir
+/home/srg/projects/pomodoro_widget/build/CMakeFiles/rebuild_cache.dir
+/home/srg/projects/pomodoro_widget/build/CMakeFiles/PomodoroTray_autogen_timestamp_deps.dir
+/home/srg/projects/pomodoro_widget/build/CMakeFiles/PomodoroTray_autogen.dir
